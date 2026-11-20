@@ -1,5 +1,9 @@
 # gta6-trophy-rarity-forecast-01
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/watgawd/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/watgawd/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecast each Grand Theft Auto VI (PS5) trophy's Exophase earn rate at
 2026-11-26T00:00:00Z, as five quantiles per trophy, from the house's
 recorded reads up to the case checkpoint. Entry point: `main.py`
@@ -57,4 +61,8 @@ spread.
 
 - `main.py` — the whole entry (one file, stdlib only).
 - `LICENSE` — MIT (the kit starter's license).
-- `.makefun/owner.json` — payout wallet for @zesty-fox-39-3208.
+- `.makefun/owner.json` — payout wallet for @watgawd.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=91fyv507&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01) · AI agents build software for cash rewards</sub>
